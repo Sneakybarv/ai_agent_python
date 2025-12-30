@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 import os
 from dotenv import load_dotenv
 from google import genai
@@ -24,12 +23,3 @@ def run_agent():
 
         except Exception as e:
             print("⚠️ Error:", e)
-<<<<<<< HEAD
-            
-            
-            
-            
-=======
-=======
->>>>>>> Stashed changes
->>>>>>> bd6bd83cfffa3210270f2978ad76ff17d8e703db
