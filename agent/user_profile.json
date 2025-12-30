@@ -1,0 +1,14 @@
+{
+  "user_id": "Ba",
+  "diabetes_type": {
+    "T2": {
+      "medication": "None",
+      "a1c": "9.6",
+      "comorbidities": "None"
+    }
+  },
+  "general_goals": [
+    "Avoid Spikes"
+  ],
+  "carb_budget": 90.0
+}
