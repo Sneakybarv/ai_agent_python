@@ -2,3 +2,8 @@ __pycache__/
 .env
 .venv/
 .vscode/
+
+# local app data
+agent/meal_log.json
+agent/user_profile.json
+.env
